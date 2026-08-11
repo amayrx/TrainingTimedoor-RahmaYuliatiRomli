@@ -1,8 +1,9 @@
-console.log(    *    )
-console.log(   * *   )
-console.log(  * * *  )
-console.log( * * * * )
-console.log(   |||   )
+console.log('    *    ')
+console.log('   ***   ')
+console.log('  *****  ')
+console.log(' ******* ')
+console.log('   |||   ')
+
 
 // // This is variable for first name
 // var firstName = "Rahma Yuliati";
