@@ -1,10 +1,10 @@
 //Lesson 2
 // Code Practice 2 - Task 1
 
-let title = "Captain Marvel";
-let rating = 6.8;
-let year = 2019;
-let forAllAges = false;
+var title = "Captain Marvel";
+var rating = 6.8;
+var year = 2019;
+var forAllAges = false;
 
 console.log("Title:", title);
 console.log("Rating:", rating);
@@ -14,10 +14,10 @@ console.log("For all ages:", forAllAges);
 
 // Code Practice 2 - Task 2
 
-let bookTitle = "The Quantum Universe";
-let author = "Brian Cox and Jeff Forshaw";
-let yearPublished = 2011;
-let isScience = true;
+var bookTitle = "The Quantum Universe";
+var author = "Brian Cox and Jeff Forshaw";
+var yearPublished = 2011;
+var isScience = true;
 
 console.log("Book Title:", bookTitle);
 console.log("Author:", author);
